@@ -1,2 +1,2 @@
 pytube==12.1.0
-python-dotenv==0.20.0
+wcwidth==0.2.5
